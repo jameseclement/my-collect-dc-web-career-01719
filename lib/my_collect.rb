@@ -7,8 +7,8 @@ i +=1
 end 
 
 end 
-languages = 
-my_collect(['ruby', 'javascript', 'python', 'objective-c']) do |language|
+languages = ['ruby', 'javascript', 'python', 'objective-c']
+my_collect(languages) do |language|
       language.upcase
       return 
     end
