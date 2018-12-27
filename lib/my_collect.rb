@@ -8,4 +8,4 @@ end
 
 end 
 
-my_collect
+my_collect(['ruby', 'javascript', 'python', 'objective-c'])
