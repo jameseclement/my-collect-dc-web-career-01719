@@ -12,4 +12,3 @@ my_collect(languages) do |language|
       language.upcase
       return languages
     end
-end
